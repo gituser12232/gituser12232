@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @gituser12232
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning rust
+- My operation system is NixOs
